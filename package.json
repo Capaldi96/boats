@@ -20,7 +20,7 @@
     "vue-visible": "^1.0.2",
     "vuelidate": "^0.7.5",
     "vuex": "^3.5.1",
-    "node": "*",
+    "node": "14.x",
     "body-parser": "*"
   },
   "devDependencies": {
